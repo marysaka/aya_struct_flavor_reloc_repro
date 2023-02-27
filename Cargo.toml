@@ -1,0 +1,7 @@
+[package]
+name = "aya_struct_flavor_reloc_repro"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aya = "0.11.0"
